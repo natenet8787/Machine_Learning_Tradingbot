@@ -1,4 +1,4 @@
-# Project14
+# Machine Learning Trading Bot
 
 Base line trading Algo
 ![BaseLine](/Starter_Code/baseline.png)
